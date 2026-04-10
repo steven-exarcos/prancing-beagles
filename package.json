@@ -35,7 +35,7 @@
         "bowser": "^2.12.1",
         "bytes": "^3.1.2",
         "chalk": "^5.6.0",
-        "chevrotain": "^11.1.1",
+        "chevrotain": "^12.0.0",
         "command-exists": "^1.2.9",
         "compression": "^1.8.1",
         "cookie-parser": "^1.4.6",
@@ -44,7 +44,7 @@
         "crc": "^4.3.2",
         "csrf-sync": "^4.2.1",
         "diff-match-patch": "^1.0.5",
-        "dompurify": "^3.2.6",
+        "dompurify": "^3.3.3",
         "droll": "^0.2.1",
         "env-paths": "^3.0.0",
         "express": "^4.21.0",
@@ -82,7 +82,7 @@
         "seedrandom": "^3.0.5",
         "showdown": "^2.1.0",
         "sillytavern-transformers": "2.14.6",
-        "simple-git": "^3.33.0",
+        "simple-git": "^3.35.2",
         "slidetoggle": "^4.0.0",
         "tiktoken": "^1.0.22",
         "url-join": "^5.0.0",
@@ -93,7 +93,7 @@
         "ws": "^8.18.3",
         "yaml": "^2.8.3",
         "yargs": "^17.7.1",
-        "yauzl": "^3.2.1"
+        "yauzl": "^3.3.0"
     },
     "engines": {
         "node": ">= 20"
